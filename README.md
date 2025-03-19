@@ -1,2 +1,2 @@
 # session_2
-Materials for Data Manipulaiton in R
+Materials for Data Manipulation in R
